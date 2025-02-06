@@ -1,5 +1,6 @@
 # 340 Midterm Deliverables
 
+
 ## What’s Already There
 
 - Do not change anything in the index.html or CSS.
